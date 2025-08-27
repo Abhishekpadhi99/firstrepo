@@ -1,2 +1,6 @@
 a=24
-print(a)
+#print(a)
+
+b=10
+
+print(a+b)
